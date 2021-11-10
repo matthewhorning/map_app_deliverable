@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties":{
+                "name": "Chaifetz Arena"
+            },
+            "geometry":{
+                "type": "Point",
+                "coordinates": [-90.228047, 38.632494]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "name": "Hermann Stadium"
+            },
+            "geometry":{
+                "type": "Point",
+                "coordinates": [-90.230473, 38.634556]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "name": "Simon Rec Center"
+            },
+            "geometry":{
+                "type": "Point",
+                "coordinates": [-90.235798, 38.635235]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "name": "Griesedieck Hall"
+            },
+            "geometry":{
+                "type": "Point",
+                "coordinates": [-90.234649, 38.635620]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "name": "Grand Hall"
+            },
+            "geometry":{
+                "type": "Point",
+                "coordinates": [-90.234724, 38.635034]
+            }
+        }
+    ]
+}
